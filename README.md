@@ -9,6 +9,24 @@ La **Calculadora de Propinas** es una aplicación web desarrollada en React y Ty
 - **Gestión de Pedido**: Agrega o elimina elementos de tu pedido fácilmente.
 - **Reinicio de Pedido**: Un botón permite reiniciar el pedido y la selección de propina.
 
+## Instalación:
+Sigue estos pasos para ejecutar el proyecto en tu máquina local.
+
+### 1. Clonar el repositorio:
+```bash
+git clone https://github.com/anabartos/Calculadora-Propinas-React-TS.git
+cd Calculadora-Propinas-React-TS
+```
+### 2. Instalar las dependencias:
+```bash
+npm install
+```
+### 3.Ejecutar el servidor de desarrollo:
+Para iniciar el proyecto en modo de desarrollo, utiliza el siguiente comando:
+
+```bash
+npm run dev
+```
 ## Tecnologías Utilizadas
 - **Vite**: Herramienta de desarrollo rápida para proyectos en React y TypeScript.
 - **React**: Biblioteca para construir interfaces de usuario.
